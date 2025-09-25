@@ -165,6 +165,7 @@ main {
   border: 2px solid var(--white-color);
   color: var(--red-color);
   background-color: var(--white-color);
+  cursor: pointer;
 }
 /* END WELCOME PAGE */
 
